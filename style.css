@@ -1,0 +1,37 @@
+#header-nav{
+	background-color: #404040;
+	font-family: "Oxygen", sans-serif;
+}
+
+.navbar-brand h1{
+	color: #fff;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+h2{
+	text-align: center;
+}
+.collapse li{
+	box-sizing: border-box;
+	text-align: center;
+	background-color: #cccccc;
+	border: 1px solid black;
+}
+
+.collapse a{
+	color:#707070;
+	text-decoration: none;
+}
+
+#box{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#box1, #box2, #box3{
+	background-color: grey;
+	border:2px solid black;
+	margin-bottom: 10px;
+	position:relative;
